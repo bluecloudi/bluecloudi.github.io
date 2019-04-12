@@ -1081,7 +1081,7 @@ pre .javascript .function {
 @media (max-width: 991px) {
   .back-to-top {
     opacity: 0.8;
-    left: 30px;
+    right: 30px;
   }
 }
 .header {
@@ -1775,7 +1775,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffafff;
+  background: #ff5c2a;
 }
 .feed-link,
 .chat {
@@ -2726,10 +2726,4 @@ hr {
   padding: 25px;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
-.sidebar {
-  left: 0;
-}
-.sidebar-toggle {
-  left: 30px;
 }
