@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bluecloudi的Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://bluecloudi.ml/"/>
+  <updated>2019-10-04T00:52:11.019Z</updated>
+  <id>http://bluecloudi.ml/</id>
+  
+  <author>
+    <name>Bluecloudi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客</title>
+    <link href="http://bluecloudi.ml/2019/10/03/Blog/"/>
+    <id>http://bluecloudi.ml/2019/10/03/Blog/</id>
+    <published>2019-10-02T16:00:00.000Z</published>
+    <updated>2019-10-04T00:52:11.019Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="今日完成博客。"><a href="#今日完成博客。" class="headerlink" title="今日完成博客。"></a>今日完成博客。</h1><a id="more"></a><h1 id="今日创建第一篇文章。"><a href="#今日创建第一篇文章。" class="headerlink" title="今日创建第一篇文章。"></a>今日创建第一篇文章。</h1><h1 id="sqrt-0-0"><a href="#sqrt-0-0" class="headerlink" title="$\sqrt{0}=0$"></a>$\sqrt{0}=0$</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;今日完成博客。&quot;&gt;&lt;a href=&quot;#今日完成博客。&quot; class=&quot;headerlink&quot; title=&quot;今日完成博客。&quot;&gt;&lt;/a&gt;今日完成博客。&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="http://bluecloudi.ml/categories/Blog/"/>
+    
+    
+      <category term="Blog" scheme="http://bluecloudi.ml/tags/Blog/"/>
+    
+  </entry>
+  
+</feed>
